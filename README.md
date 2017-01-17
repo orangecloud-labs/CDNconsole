@@ -7,10 +7,10 @@ Consumer Secret.
 # Main menu:
   After you’ve entered your credentials you will be presented with the following options:
 
-  1. Change API Credentials - You will be prompted to re enter your Company Alias, Consumer
+  **1. Change API Credentials** - You will be prompted to re enter your Company Alias, Consumer
   Key and Consumer Secret.
-  2. Zone management – Allows operations with Pull, Push and VOD zones.
-  3. User management – Allows creating, modifying, deleting and viewing of user accounts.
+  **2. Zone management** – Allows operations with Pull, Push and VOD zones.
+  **3. User management** – Allows creating, modifying, deleting and viewing of user accounts.
 
 ##Zone management:
 ###Pull Zones
