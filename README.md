@@ -9,7 +9,9 @@ Consumer Secret.
 
   **1. Change API Credentials** - You will be prompted to re enter your Company Alias, Consumer
   Key and Consumer Secret.
+  
   **2. Zone management** – Allows operations with Pull, Push and VOD zones.
+  
   **3. User management** – Allows creating, modifying, deleting and viewing of user accounts.
 
 ##Zone management:
