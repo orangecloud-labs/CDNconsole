@@ -30,7 +30,7 @@ Consumer Secret.
   
   **Purge Zones** - Purges the entire Pull Zone specified with the Pull Zone ID
   
-  **view Zones** – Displays the list of all Pull Zones on the account with the Pull Zone ID, date of creation
+  **View Zones** – Displays the list of all Pull Zones on the account with the Pull Zone ID, date of creation
   and the Zone URL.
   
 ###Push Zone
