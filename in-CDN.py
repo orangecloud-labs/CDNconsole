@@ -1,7 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from os import system
 from maxcdn import MaxCDN
 import sys
 import os
