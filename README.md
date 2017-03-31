@@ -15,7 +15,7 @@ Consumer Secret.
   **3. User management** – Allows creating, modifying, deleting and viewing of user accounts.
 
 ## Zone management:
-###Pull Zones
+### Pull Zones
   **Create** – Creates a pull zone with the Zone Name that you specified, and the link to your
   origin(must include http:// or https://)
   
@@ -33,7 +33,7 @@ Consumer Secret.
   **View Zones** – Displays the list of all Pull Zones on the account with the Pull Zone ID, date of creation
   and the Zone URL.
   
-###Push Zone
+### Push Zone
   **Create** - Creates a Push zone with the Zone Name and Password that you specified.
   
   **Modify** - You will be prompted to enter the ID of the zone you want to modify, after that you can
@@ -45,7 +45,7 @@ Consumer Secret.
   **View Zones** - Displays the list of all Push Zones on the account with the Pull Zone ID, date of creation
   and the Zone URL.
   
-###VOD Zone
+### VOD Zone
   **Create** - Creates a VOD Zone with the Zone Name and Password that you specified.
   
   **Modify** - You will be prompted to enter the ID of the zone you want to modify, after that you can
